@@ -1,0 +1,17 @@
+
+“	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³­ ¤8üÚ€Äƒ2J$1bd18c3f-7a37-402c-b147-1dbec2603135
+˜	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñªè×ÿÿÿÿÿ8üÚ€Äƒ2J$6a317630-b6c4-4516-a073-d73602db4c94
+V
+java:S1220""Move this file to a named package.J$177efe24-ef49-4788-86a1-484a2e0e9c61
+”
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ãËûO8¥Û€Äƒ2J$886fa337-8555-47bb-a952-a2b4471e59ff
+n
+java:S1197",Move the array designators [][] to the type.(ãËûO8§Û€Äƒ2J$30fa6952-0037-4051-aff1-27f62a25cf89
+†
+java:S1659">Declare "k" and all following declarations on a separate line.(–üÒóøÿÿÿÿ8§Û€Äƒ2J$8229920c-d940-49f7-979e-099f5a7f74a3
+r	java:S106"+Replace this use of System.out by a logger.(½ß¼şÿÿÿÿ8©Û€Äƒ2J$c9d95963-a94e-4eac-9e7b-26f15568ef5d
+r	java:S106"+Replace this use of System.out by a logger.(ğ†öúÿÿÿÿ8©Û€Äƒ2J$bfa3a91a-b13a-4154-903b-753ace76354d
+r	java:S106 "+Replace this use of System.out by a logger.(²ÚÍúÿÿÿÿ8ªÛ€Äƒ2J$9545b50c-8e5e-4480-b8e1-492c5cebbef9
+m	java:S106)"+Replace this use of System.out by a logger.(äƒµĞ8ªÛ€Äƒ2J$0b4078f4-7c78-469b-b9a0-369fc3eda0d2
+t
+java:S11975",Move the array designators [][] to the type.(À¼ü©øÿÿÿÿ8«Û€Äƒ2J$87348900-2460-49e2-8b3d-d98a53177edb

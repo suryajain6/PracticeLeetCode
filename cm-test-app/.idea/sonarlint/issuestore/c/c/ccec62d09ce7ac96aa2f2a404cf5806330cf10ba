@@ -1,0 +1,8 @@
+
+]
+java:S1220""Move this file to a named package.8Õ–·ô2J$4c49704c-d45f-4544-959f-0d27d4982dbc
+}
+java:S1854"5Remove this useless assignment to local variable "n".(Ù€¤£ıÿÿÿÿ8ïĞ¹ô2J$fd292a70-8bf4-48e8-8de8-1260c000b2ea
+n
+java:S1481"&Remove this unused "n" local variable.(Ù€¤£ıÿÿÿÿ8ğĞ¹ô2J$96b302fa-af2c-41a0-9b59-47f96962075d
+r	java:S106"+Replace this use of System.out by a logger.(³¿îˆûÿÿÿÿ8­´¹ô2J$e90b923c-3c31-44fd-acda-adbf765c1904

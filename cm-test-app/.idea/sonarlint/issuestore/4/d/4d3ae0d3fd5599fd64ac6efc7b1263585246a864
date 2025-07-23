@@ -1,0 +1,31 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(´…ª8‡ÆÙ«Ì2
+L
+java:S3740"/Provide the parametrized type for this generic.(Âí¼8‡ÆÙ«Ì2
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š„„ùÿÿÿÿ8ŠÆÙ«Ì2
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(»»ñ8ŠÆÙ«Ì2
+7
+java:S1220""Move this file to a named package.8™ŠÔı2
+Y
+java:S1854"7Remove this useless assignment to local variable "str".(âé—Ÿÿÿÿÿÿ8÷ÆÙ«Ì2
+J
+java:S1481"(Remove this unused "str" local variable.(âé—Ÿÿÿÿÿÿ8üÆÙ«Ì2
+L	java:S106	"+Replace this use of System.out by a logger.(«‡›Äøÿÿÿÿ8şÆÙ«Ì2
+X	java:S125"<This block of commented-out lines of code should be removed.(úí«ó8ÿÆÙ«Ì2
+G	java:S106"+Replace this use of System.out by a logger.(á®¾¦8¡ÇÙ«Ì2
+M
+java:S2201"+The return value of "collect" must be used.(ñ«Úûÿÿÿÿ8ïÇÙ«Ì2
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ñ«Úûÿÿÿÿ8ğÇÙ«Ì2
+W
+java:S1612"5Replace this lambda with method reference 'set::add'.(ñ«Úûÿÿÿÿ8öÇÙ«Ì2
+G	java:S106"+Replace this use of System.out by a logger.(ò¥¾³8øÇÙ«Ì2
+U
+java:S1854("8Remove this useless assignment to local variable "temp".(öâñ´8«ŠÔı2
+F
+java:S1481(")Remove this unused "temp" local variable.(öâñ´8«ŠÔı2
+j	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô€Óé8ŒÈÙ«Ì2

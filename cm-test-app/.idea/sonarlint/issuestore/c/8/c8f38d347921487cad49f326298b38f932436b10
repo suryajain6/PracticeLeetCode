@@ -1,0 +1,78 @@
+
+i
+java:S1192P"GDefine a constant instead of duplicating this literal "banana" 4 times.(¦‚ûØùÿÿÿÿ8ÉšŒŞæ2
+h
+java:S1192P"FDefine a constant instead of duplicating this literal "apple" 5 times.(¦‚ûØùÿÿÿÿ8ÊšŒŞæ2
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡‡ç—
+j
+java:S3655A"HCall "name.isPresent()" or "!name.isEmpty()" before accessing the value.(ÕÖ¾Øıÿÿÿÿ8Ü›ŒŞæ2
+h
+java:S3655x"FCall "emp.isPresent()" or "!emp.isEmpty()" before accessing the value.(ÃüŠÍÿÿÿÿÿ8Ü›ŒŞæ2
+f
+java:S1854¥"CRemove this useless assignment to local variable "uniqueeEmployee".(Š®¹‘úÿÿÿÿ8å›ŒŞæ2
+e
+java:S1854"BRemove this useless assignment to local variable "uniqueEmployee".(şõüâşÿÿÿÿ8æ›ŒŞæ2
+[
+java:S1854”"=Remove this useless assignment to local variable "sortedMap".(¤›8ç›ŒŞæ2
+@	java:S106	"+Replace this use of System.out by a logger.(£ÆÏÁ
+]	java:S125"<This block of commented-out lines of code should be removed.(½áØÔùÿÿÿÿ8î›ŒŞæ2
+t
+java:S62048"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¿£“šşÿÿÿÿ8ò›ŒŞæ2
+b
+java:S16128"@Replace this lambda with method reference 'String::toUpperCase'.(¿£“šşÿÿÿÿ8ş›ŒŞæ2
+G	java:S1069"+Replace this use of System.out by a logger.(°×ëÃ8ƒœŒŞæ2
+t
+java:S6204<"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(£é˜­úÿÿÿÿ8„œŒŞæ2
+F	java:S106="+Replace this use of System.out by a logger.(²äÏg8‡œŒŞæ2
+L	java:S106A"+Replace this use of System.out by a logger.(ÕÖ¾Øıÿÿÿÿ8ˆœŒŞæ2
+t
+java:S6204M"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(–‘®ºøÿÿÿÿ8œŒŞæ2
+G	java:S106N"+Replace this use of System.out by a logger.(ÒŒÿÇ8‘œŒŞæ2
+Z
+java:S3878P"8Remove this array creation and simply pass the elements.(¦‚ûØùÿÿÿÿ8’œŒŞæ2
+L	java:S106R"+Replace this use of System.out by a logger.(©âåòÿÿÿÿÿ8“œŒŞæ2
+N
+java:S1602_",Remove useless curly braces around statement(ôİ¡Çøÿÿÿÿ8œŒŞæ2
+L	java:S106`"+Replace this use of System.out by a logger.(•ï®šùÿÿÿÿ8œŒŞæ2
+U
+java:S3878c"8Remove this array creation and simply pass the elements.(Ñ§§İ8œŒŞæ2
+o
+java:S6204d"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ìœí8œŒŞæ2
+G	java:S106e"+Replace this use of System.out by a logger.(Æş³8¢œŒŞæ2
+G	java:S106h"+Replace this use of System.out by a logger.(‚¨Ö§8£œŒŞæ2
+L	java:S106k"+Replace this use of System.out by a logger.(Ò°Ïşÿÿÿÿ8¥œŒŞæ2
+Z
+java:S3878m"8Remove this array creation and simply pass the elements.(£Æäÿüÿÿÿÿ8¦œŒŞæ2
+L	java:S106o"+Replace this use of System.out by a logger.(—Ì³¹ùÿÿÿÿ8¨œŒŞæ2
+Q
+java:S1611r"/Remove the parentheses around the "k" parameter(ÎÊßûÿÿÿÿ8¨œŒŞæ2
+t
+java:S6204s"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı¶·¡üÿÿÿÿ8¨œŒŞæ2
+G	java:S106t"+Replace this use of System.out by a logger.(¨İœ8¨œŒŞæ2
+L	java:S106x"+Replace this use of System.out by a logger.(ÃüŠÍÿÿÿÿÿ8°œŒŞæ2
+U
+java:S3878z"8Remove this array creation and simply pass the elements.(ãäğÓ8±œŒŞæ2
+G	java:S106|"+Replace this use of System.out by a logger.(®õã‚8³œŒŞæ2
+Z
+java:S3878~"8Remove this array creation and simply pass the elements.(ïæ™ùÿÿÿÿÿ8´œŒŞæ2
+u
+java:S6204ƒ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(íËúïúÿÿÿÿ8´œŒŞæ2
+]
+java:S1612ƒ":Replace this lambda with method reference 'Entry::getKey'.(íËúïúÿÿÿÿ8¸œŒŞæ2
+M	java:S106„"+Replace this use of System.out by a logger.(€­‚üıÿÿÿÿ8¹œŒŞæ2
+V
+java:S3878†"8Remove this array creation and simply pass the elements.(ÓÕ‘ô8ºœŒŞæ2
+u
+java:S6204ˆ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óÃ×İûÿÿÿÿ8»œŒŞæ2
+H	java:S106‰"+Replace this use of System.out by a logger.(Ûäˆ8½œŒŞæ2
+M	java:S106Œ"+Replace this use of System.out by a logger.(ß²«™ûÿÿÿÿ8ÀœŒŞæ2
+L
+java:S1481”".Remove this unused "sortedMap" local variable.(¤›8ÇœŒŞæ2
+u
+java:S6204£"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¸°ªÍÿÿÿÿÿ8ÇœŒŞæ2
+V
+java:S1481"3Remove this unused "uniqueEmployee" local variable.(şõüâşÿÿÿÿ8ËœŒŞæ2
+u
+java:S6204¦"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ŞİÕéùÿÿÿÿ8ËœŒŞæ2
+W
+java:S1481¥"4Remove this unused "uniqueeEmployee" local variable.(Š®¹‘úÿÿÿÿ8ÎœŒŞæ2

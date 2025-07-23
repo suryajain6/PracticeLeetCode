@@ -1,0 +1,12 @@
+
+]
+java:S1220""Move this file to a named package.8¹ì÷«ÿ1J$64495252-1b04-49a7-b598-fc0f362bba17
+r	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8ØÏ–¢2J$267285b0-d579-434a-87d0-b00749a108fd
+r
+java:S1197"*Move the array designators [] to the type.(ˆñ„­úÿÿÿÿ8ØÏ–¢2J$f1664666-b000-4948-bf2f-6bad22193d57
+m
+java:S1197	"*Move the array designators [] to the type.(«ç·8ÙÏ–¢2J$503d7876-92d2-4906-af97-7f88d0984a1d
+m	java:S106$"+Replace this use of System.out by a logger.(îäú™8İÏ–¢2J$a0c428de-e22d-4fac-9e06-a426bcea55e2
+r	java:S106%"+Replace this use of System.out by a logger.(ù£·êıÿÿÿÿ8İÏ–¢2J$6faeeb45-af35-413a-a364-941df6e878a4
+m	java:S106&"+Replace this use of System.out by a logger.(ûŸ¥ÿ8ŞÏ–¢2J$55846bf5-4b92-4873-af83-8af8e9f37dd6
+m	java:S106'"+Replace this use of System.out by a logger.(ïÍØƒ8ŞÏ–¢2J$bc48e4f9-7050-47ff-a926-956abf7fb124

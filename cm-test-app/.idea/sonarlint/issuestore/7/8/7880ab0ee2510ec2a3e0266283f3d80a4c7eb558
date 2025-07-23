@@ -1,0 +1,19 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(ù¨´Ş8ŒŸÀ‘ü1J$3b0072db-73e9-43ac-b449-89f6045d10b2
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÁ¬ıÿÿÿÿ8ŸÀ‘ü1J$6cf7a9f2-d08d-47b8-9047-82c7c80fe9c9
+]
+java:S1220""Move this file to a named package.8ŸÀ‘ü1J$af1204ff-edea-48b8-ab08-5d692cc9ea2e
+
+java:S1854	"9Remove this useless assignment to local variable "total".(ï’·çÿÿÿÿÿ8¹ŸÀ‘ü1J$2c997a83-5bdb-41d8-95d9-904ad146780b
+r	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8ºŸÀ‘ü1J$403c0f72-8eb4-4216-ac06-3caf660c0346
+m
+java:S1197"*Move the array designators [] to the type.(ú÷œõ8»ŸÀ‘ü1J$68bb289e-3204-4c92-bd5e-8b108787e46a
+r
+java:S1481	"*Remove this unused "total" local variable.(ï’·çÿÿÿÿÿ8»ŸÀ‘ü1J$25ce3aaf-d1cc-489b-bf30-e4bf4d22def7
+r
+java:S1197"*Move the array designators [] to the type.(€¿¿òùÿÿÿÿ8¼ŸÀ‘ü1J$93e60e3d-4784-44d6-bf6f-d5cd16a2f6b7
+r	java:S106"+Replace this use of System.out by a logger.(éË‘µÿÿÿÿÿ8ÀŸÀ‘ü1J$fc80188e-2eeb-49a9-89f6-6c2cac533af7
+r
+java:S1197!"*Move the array designators [] to the type.(ÖÜ¿çùÿÿÿÿ8¿ŸÀ‘ü1J$982c5890-7ae8-40e7-9f90-e81fd07f00f8
+m	java:S106)"+Replace this use of System.out by a logger.(„™ñŸ8üÂ‘ü1J$a124711a-51af-4651-a4c5-2443f9f10327

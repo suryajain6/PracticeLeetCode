@@ -1,0 +1,81 @@
+
+R
+java:S3740¥"/Provide the parametrized type for this generic.(Ğ–Õ„üÿÿÿÿ8ˆí©–ï2
+R
+java:S3740¥"/Provide the parametrized type for this generic.(Ğ–Õ„üÿÿÿÿ8ˆí©–ï2
+R
+java:S3740¶"/Provide the parametrized type for this generic.(Ğ–Õ„üÿÿÿÿ8‰í©–ï2
+R
+java:S3740¶"/Provide the parametrized type for this generic.(Ğ–Õ„üÿÿÿÿ8‰í©–ï2
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç Ş—8Ší©–ï2
+v
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Õ­ñ8‹í©–ï2
+v
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(´’é¸8‹í©–ï2
+|
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(©­Ì÷ÿÿÿÿÿ8Œí©–ï2
+w
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(»»ñ8Œí©–ï2
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Ò³µ8í©–ï2
+M
+java:S1066È"/Merge this if statement with the enclosing one.(ôÚ Ã8í©–ï2
+?
+java:S1643í"Use a StringBuilder instead.(ùÏ–“ıÿÿÿÿ8“í©–ï2
+_
+java:S4973Ø"<Strings and Boxed types should be compared using "equals()".(ÈÕ•öÿÿÿÿÿ8™í©–ï2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡‡ç—8œí©–ï2
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ğÏ©œşÿÿÿÿ8¸ÿ©–ï2
+s
+java:S1149¥"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ğ–Õ„üÿÿÿÿ8Áÿ©–ï2
+s
+java:S1149¶"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ğ–Õ„üÿÿÿÿ8Áÿ©–ï2
+G	java:S106"+Replace this use of System.out by a logger.(ª¨ı®8Éÿ©–ï2
+N
+java:S1602.",Remove useless curly braces around statement(©ÆŠÊşÿÿÿÿ8Ìÿ©–ï2
+G	java:S1062"+Replace this use of System.out by a logger.(ïŸí¹8Îÿ©–ï2
+G	java:S106N"+Replace this use of System.out by a logger.(ïŸí¹8Ôÿ©–ï2
+o
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Œıû8Õÿ©–ï2
+L	java:S106x"+Replace this use of System.out by a logger.(ä«—ÿÿÿÿÿ8Øÿ©–ï2
+M	java:S106¯"+Replace this use of System.out by a logger.(š¾¥Úÿÿÿÿÿ8áÿ©–ï2
+o
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(˜ıú\8äÿ©–ï2
+L
+java:S1481´".Remove this unused "maxLength" local variable.(ºƒãÛ8åÿ©–ï2
+H	java:S106â"+Replace this use of System.out by a logger.(âÑç8ëÿ©–ï2
+p
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(×‘àÙ8ìÿ©–ï2
+M	java:S106ƒ"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8÷ÿ©–ï2
+p
+java:S6204‹"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‡ËÛŸ8ûÿ©–ï2
+u
+java:S6204Œ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(µØ ‚ùÿÿÿÿ8şÿ©–ï2
+u
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Öò°íûÿÿÿÿ8†€ª–ï2
+u
+java:S6204—"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ˆ«¿Öüÿÿÿÿ8‰€ª–ï2
+p
+java:S6204™"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‚€³„8‹€ª–ï2
+u
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(“®öÃşÿÿÿÿ8ª€ª–ï2
+p
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ñù£–8®€ª–ï2
+u
+java:S6204’"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(÷ˆ¯†ÿÿÿÿÿ8»€ª–ï2
+]
+java:S1612’":Replace this lambda with method reference 'Entry::getKey'.(÷ˆ¯†ÿÿÿÿÿ8¼€ª–ï2
+M	java:S106“"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8şÍ¬–ï2
+^	java:S125™"<This block of commented-out lines of code should be removed.(‡°ŞÓúÿÿÿÿ8¸ú¬–ï2
+X	java:S125"<This block of commented-out lines of code should be removed.(¯·Ÿ8¸ú¬–ï2
+Y	java:S125 "<This block of commented-out lines of code should be removed.(¾ŞÀ˜8¸ú¬–ï2
+Y	java:S125£"<This block of commented-out lines of code should be removed.(¡ö‡è8¹ú¬–ï2
+X	java:S125¦"<This block of commented-out lines of code should be removed.(òƒÍ68¹ú¬–ï2
+^	java:S125©"<This block of commented-out lines of code should be removed.(ÿª‰øÿÿÿÿ8¹ú¬–ï2
+^	java:S125¬"<This block of commented-out lines of code should be removed.(”êÆúÿÿÿÿ8¹ú¬–ï2
+^	java:S125¯"<This block of commented-out lines of code should be removed.(›´ª‹ıÿÿÿÿ8ºú¬–ï2
+Y	java:S125³"<This block of commented-out lines of code should be removed.(™›à8ºú¬–ï2
+Y	java:S125·"<This block of commented-out lines of code should be removed.(±ıÊ¯8»ú¬–ï2
+^	java:S125º"<This block of commented-out lines of code should be removed.(ÿª‰øÿÿÿÿ8ş²²–ï2

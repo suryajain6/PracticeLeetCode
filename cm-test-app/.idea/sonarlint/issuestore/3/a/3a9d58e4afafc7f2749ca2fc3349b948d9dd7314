@@ -1,0 +1,17 @@
+
+”
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€Üð/J$2bdef47a-4458-4968-9f4a-1e7921c40369
+V
+java:S1220""Move this file to a named package.J$4c5ea85b-54c8-4941-8b8e-0cb5ef04e5db
+W
+java:S3626A"Remove this redundant jump.(ûÁÝ…J$5dd7494e-628b-49c3-ad31-a93ba01dac5e
+f
+java:S1197"*Move the array designators [] to the type.(„Ô¦ÂJ$893288e4-8c49-4709-8c69-9a3168ffff2d
+f	java:S1067"+Replace this use of System.out by a logger.(ÆÀûýJ$c35082d9-e7bb-47bc-a42b-0aadbc43577b
+f	java:S106<"+Replace this use of System.out by a logger.(ÆÀûýJ$c28aa575-67c7-47b5-8fbc-42273facf60b
+k
+java:S1197E"*Move the array designators [] to the type.(º ìýÿÿÿÿJ$3212a2af-1716-4ff6-9fca-0b2cd64e48eb
+k
+java:S1197J"*Move the array designators [] to the type.(ìÐñýþÿÿÿÿJ$4a43b5ca-ce98-40d3-8c67-acd7fb91cffd
+^
+java:S1659U""Declare "sell" on a separate line.(Ù£Ã¡J$a82772b0-14dd-4b99-a5eb-9772fd83c044

@@ -1,0 +1,28 @@
+
+7
+java:S1220""Move this file to a named package.8ŠÖ¼˜2
+O
+java:S3958D"2Refactor the code so this stream pipeline is used.(Ò§º8«ÉÅ£2
+V
+java:S1854":Remove this useless assignment to local variable "albums".(¢°ê$8Ö¼˜2
+G
+java:S1481"+Remove this unused "albums" local variable.(¢°ê$8 Ö¼˜2
+]	java:S125"<This block of commented-out lines of code should be removed.(÷Ó­Îùÿÿÿÿ8¡Ö¼˜2
+X	java:S125"<This block of commented-out lines of code should be removed.(û·Ğ‘8¡Ö¼˜2
+X	java:S125"<This block of commented-out lines of code should be removed.(×¢‘ò8ÇÈÑÂ˜2
+t
+java:S6204#"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‘œ»»şÿÿÿÿ8¥Ö¼˜2
+L	java:S106$"+Replace this use of System.out by a logger.(±‡âÈüÿÿÿÿ8¦Ö¼˜2
+t
+java:S6204&"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(å·âáùÿÿÿÿ8¨ØÙ«Ì2
+L	java:S106'"+Replace this use of System.out by a logger.(õ†ŠÍüÿÿÿÿ8­ØÙ«Ì2
+]	java:S125)"<This block of commented-out lines of code should be removed.(õµ—Ãúÿÿÿÿ8…±ÉÂ˜2
+L	java:S1060"+Replace this use of System.out by a logger.(İ©»Ùıÿÿÿÿ8™˜ËÂ˜2
+L	java:S1061"+Replace this use of System.out by a logger.(øˆÿûÿÿÿÿ8‰­ÌÂ˜2
+F	java:S1062"+Replace this use of System.out by a logger.(¯øÖ:8‰­ÌÂ˜2
+L	java:S1066"+Replace this use of System.out by a logger.(…»ë›şÿÿÿÿ8¢¾ßÂ˜2
+L
+java:S1172@"*Remove this unused method parameter "str".(å™ÆŸøÿÿÿÿ8ÆÉÅ£2
+X	java:S125A"<This block of commented-out lines of code should be removed.(ì Û‹8ÆÉÅ£2
+H
+java:S2201D"+The return value of "collect" must be used.(Ò§º8ÉÉÅ£2

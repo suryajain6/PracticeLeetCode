@@ -1,0 +1,28 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(­†’©ùÿÿÿÿ8Ãº¹±Ì2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÖÛŒ8Æº¹±Ì2
+g
+java:S2259q"EA "NullPointerException" could be thrown; "delNode" is nullable here.(¢§ğÂùÿÿÿÿ8ìº¹±Ì2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ışÌÓ8ß»¹±Ì2
+G	java:S106!"+Replace this use of System.out by a logger.(‚äç»8ì»¹±Ì2
+L	java:S106#"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8í»¹±Ì2
+G	java:S106("+Replace this use of System.out by a logger.(Îõ¤”8î»¹±Ì2
+L	java:S106*"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8î»¹±Ì2
+L	java:S1062"+Replace this use of System.out by a logger.(‹¯šùÿÿÿÿ8ï»¹±Ì2
+L	java:S1068"+Replace this use of System.out by a logger.(•¤ÚÕÿÿÿÿÿ8ğ»¹±Ì2
+L	java:S106:"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ğ»¹±Ì2
+L	java:S106D"+Replace this use of System.out by a logger.(‹¯šùÿÿÿÿ8ñ»¹±Ì2
+L	java:S106Q"+Replace this use of System.out by a logger.(üíÒáøÿÿÿÿ8ò»¹±Ì2
+L	java:S106Z"+Replace this use of System.out by a logger.(‹¯šùÿÿÿÿ8ó»¹±Ì2
+o
+java:S3776_"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(º÷§8ô»¹±Ì2
+W
+java:S1854b":Remove this useless assignment to local variable "parent".(ïœú×8õ»¹±Ì2
+\
+java:S1854f":Remove this useless assignment to local variable "parent".(¦‹Ó‡ûÿÿÿÿ8õ»¹±Ì2
+\
+java:S1854i":Remove this useless assignment to local variable "parent".(¦‹Ó‡ûÿÿÿÿ8õ»¹±Ì2
+H
+java:S1481b"+Remove this unused "parent" local variable.(ïœú×8õ»¹±Ì2
+Y	java:S125™"<This block of commented-out lines of code should be removed.(×·–8ù»¹±Ì2

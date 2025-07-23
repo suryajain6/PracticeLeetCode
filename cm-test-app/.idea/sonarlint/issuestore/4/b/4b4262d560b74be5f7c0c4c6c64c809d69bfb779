@@ -1,0 +1,21 @@
+
+Œ
+java:S1192"IDefine a constant instead of duplicating this literal " max is " 3 times.(ÊğÂ8‘©şü1J$3e52bf8a-273b-4e92-a6c2-d3972ef4b7a0
+‹
+java:S1192"HDefine a constant instead of duplicating this literal "min is " 3 times.(ÊğÂ8‘©şü1J$dbf907bc-6d92-4e8a-b9ee-19aee8a92e8c
+›	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(³şÍ¾8ôŒéü1J$35d2e39a-19f8-4f42-a235-7de7e30de2f1
+ 	java:S135&"YReduce the total number of break and continue statements in this loop to use at most one.(ƒı¥ıÿÿÿÿ8“©şü1J$86c9d717-ac4c-48bb-b11f-7bb3cc20123c
+š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÊğÂ8õŒéü1J$6347e147-73d9-4466-ae23-d548f3be449e
+š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÊğÂ8öŒéü1J$e7cc42f7-bdf6-4cc9-959d-58bcd1c78bbf
+š	java:S127)"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘ÅÛ¶8öŒéü1J$9a7b3ef4-70ed-4071-ab4a-096d078c495d
+š	java:S1272"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘ÅÛ¶8”©şü1J$5a574e04-d863-4c89-a488-a2a5b28fcf07
+]
+java:S1220""Move this file to a named package.8÷Œéü1J$3ba0a8ca-b6e1-45c8-95f3-bd1127701d67
+r	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8“éü1J$268046f6-62ec-4fbc-adb5-e8d16659e18d
+r
+java:S1197"*Move the array designators [] to the type.(™ßóÄúÿÿÿÿ8”éü1J$ef5a834a-0972-4801-9116-0d644b510b7a
+m	java:S106"+Replace this use of System.out by a logger.(ÊğÂ8—éü1J$114b366a-6b7b-4431-a5bb-ef8771d3e58a
+m	java:S106)"+Replace this use of System.out by a logger.(‘ÅÛ¶8˜éü1J$b3fe7889-1b61-42f8-af61-f70d32c5e00f
+m	java:S1062"+Replace this use of System.out by a logger.(‘ÅÛ¶8¾©şü1J$6564f764-e391-47d8-bece-120d7fe7b6d6
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8™éü1J$6f0ddd22-c618-4893-a2bb-49b85c9aa561
